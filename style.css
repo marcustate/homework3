@@ -1,0 +1,54 @@
+.secure {
+    color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    border: dashed;
+    border-color: grey;
+    font-style: italic;
+    height: 400px;
+    width: 85%;
+    margin: auto;
+    background-color: white;
+}
+    
+.redbtn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: red;
+     border-radius: 50px;
+     color: white;
+     float: left;
+     font-size: 25px;
+     margin-left: 80px;
+}
+
+
+
+.btn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: blue;
+    float: right;
+    border-radius: 50px;
+    color: white;
+    font-size: 25px;
+    margin-right: 80px;
+}
+body {
+    overflow: hidden;
+}
+
+header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+body{
+    background-color: rgb(245, 224, 224);
+}
+
+.generate{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
